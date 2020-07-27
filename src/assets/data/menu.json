@@ -1,0 +1,111 @@
+[{
+        "icon": "american-football",
+        "name": "Action Sheet",
+        "redirecTo": "/action-sheet"
+    },
+    {
+        "icon": "logo-apple-appstore",
+        "name": "Alert",
+        "redirecTo": "/alert"
+    },
+    {
+        "icon": "beaker",
+        "name": "Avatar Page",
+        "redirecTo": "/avatar"
+    },
+    {
+        "icon": "radio-button-on-outline",
+        "name": "Buttons Page",
+        "redirecTo": "/buttons"
+    },
+    {
+        "icon": "card-outline",
+        "name": "Cards Page",
+        "redirecTo": "/cards"
+    },
+    {
+        "icon": "checkmark-circle-outline",
+        "name": "Checkbox",
+        "redirecTo": "/check"
+    },
+    {
+        "icon": "calendar",
+        "name": "Date Time",
+        "redirecTo": "/date-time"
+    },
+    {
+        "icon": "car",
+        "name": "Fabs Page",
+        "redirecTo": "/fab"
+    },
+    {
+        "icon": "grid",
+        "name": "Grid Page",
+        "redirecTo": "/grid"
+    },
+    {
+        "icon": "infinite",
+        "name": "Infinite Scroll Page",
+        "redirecTo": "/infinite-scroll"
+    },
+    {
+        "icon": "hammer",
+        "name": "Input Page",
+        "redirecTo": "/input"
+    },
+    {
+        "icon": "list",
+        "name": "List - Sliding Page",
+        "redirecTo": "/list"
+    },
+    {
+        "icon": "reorder-three-outline",
+        "name": "Reorder Page",
+        "redirecTo": "/list-reorder"
+    },
+    {
+        "icon": "refresh-circle",
+        "name": "Loading Page",
+        "redirecTo": "/loading"
+    },
+    {
+        "icon": "phone-portrait",
+        "name": "Modal Page",
+        "redirecTo": "/modal"
+    },
+    {
+        "icon": "tablet-portrait",
+        "name": "Popover Page",
+        "redirecTo": "/pop-over"
+    },
+    {
+        "icon": "code-working-outline",
+        "name": "Progress & Range Page",
+        "redirecTo": "/progress-range"
+    },
+    {
+        "icon": "arrow-down-outline",
+        "name": "Refresher Page",
+        "redirecTo": "/refresher"
+    },
+    {
+        "icon": "search-outline",
+        "name": "Search Bar Page",
+        "redirecTo": "/searchbar"
+    },
+    {
+        "icon": "copy",
+        "name": "Segment Page",
+        "redirecTo": "/segment"
+    },
+    {
+        "icon": "albums",
+        "name": "Slides Page",
+        "redirecTo": "/slides"
+    },
+    {
+        "icon": "cog",
+        "name": "Tabs",
+        "redirecTo": "/tabs/account"
+    }
+]

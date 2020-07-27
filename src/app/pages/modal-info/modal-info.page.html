@@ -1,0 +1,20 @@
+<ion-header no-border>
+    <ion-toolbar>
+        <ion-title> {{ nombre }} -- {{ pais }} </ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+    <ion-button color="primary" expand="full" (click)="salirSinArgumentos()">
+        Salir SIN Argumentos
+    </ion-button>
+
+    <ion-button color="secondary" expand="full" (click)="salirConArgumentos()">
+        Salir CON Argumentos
+    </ion-button>
+
+    <p>
+        Datos a Padre
+    </p>
+</ion-content>
